@@ -1,0 +1,4 @@
+Gennaio:
+	- Luce: 200
+	- Gas: 30
+	- Acqua: 150
