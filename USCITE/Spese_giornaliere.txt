@@ -1,0 +1,5 @@
+Gennaio:
+	- Settimana 1
+		- Verdure: 50
+		- Frutta: 30
+		- Bevande: 70
